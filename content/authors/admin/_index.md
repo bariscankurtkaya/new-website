@@ -68,5 +68,5 @@ social:
 highlight_name: true
 ---
 
-I am one of the two Hugging Face Ambassadors and Microsoft Ambassador in Turkey, my overarching objective involves two main areas of focus. The first is to develop computer vision solutions through the use of smart machine learning systems that can learn like humans with minimal or no supervision. The second is to promote greater transparency of these “black-box” systems. To achieve this, I plan to concentrate on the area of self-supervised and/or unsupervised learning and work towards shifting and advancing our understanding of artificial intelligence.
+I am a deep learning researcher ambitious to explore the power of generative deep learning models in artificial intelligence. I am particularly interested in generative models, as well as 2D and 3D computer vision. Currently, I am pursuing graduate studies at Koc with a focus on video editing using diffusion models. I also serve as one of the two ambassadors of Hugging Face and Microsoft in Turkey. Additionally, I am a professional athlete and firmly believe in the collective strength of teamwork. This ethos deeply influences my approach to research and collaboration, and I am actively seeking opportunities to work in interdisciplinary teams.
 {style="text-align: justify;"}
