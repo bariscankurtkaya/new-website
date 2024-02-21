@@ -79,7 +79,7 @@ sections:
           date_end: "2023-12-01"
           description: Proposed novel lightweight image editing approach to harness the power of pre-trained text-to-image latent diffusion models to overcome inconsistency and incoherency in video editing.
         - title: Researcher
-          company: Princeton University / Washington University St. Louis - Astromusers
+          company: Princeton University & Washington University St. Louis - Astromusers
           company_url: "https://physics.wustl.edu/people/tansu-daylan"
           company_logo: princeton
           location: New Jersey / USA
